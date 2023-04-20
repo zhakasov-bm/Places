@@ -3,6 +3,7 @@ Places is a simple iOS application built in Swift that allows users to save thei
 
 ## Technologies Used
 * Swift 5
+* UIKit
 * Core Data
 * MapKit
 * Core Location
